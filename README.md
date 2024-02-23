@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practising the GitHub Flow
+This is Srikar Setty, a computer science student from Mahindra University.
